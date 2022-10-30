@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rast6
-- 👀 I’m interested in ...
+- 👀 I’m interested on Pizza 🍕
 - 🌱 I’m currently learning HTML..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 You can reach me at Discord: Epic#0014
 
 <!---
