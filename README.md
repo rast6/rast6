@@ -15,5 +15,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rast6&show_icons=true" />
 </picture>
 <picture>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ficelloo&hide=html&theme=graywhite&layout=compact&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rast6&hide=html&theme=graywhite&layout=compact&hide_border=true">
   </picture>
