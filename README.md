@@ -1,4 +1,4 @@
-- # Description
+# Description
 - 💻 I’m currently learning HTML and PHP..
 - 🔧 Like to reverse engineering some programs
 - 🪟 Windows User
