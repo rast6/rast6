@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @rast6
-- 👀 I’m interested on Pizza 🍕
-- 🌱 I’m currently learning HTML and PHP..
-- 💞️ I’m Epic
-- 📫 You can reach me at Discord: Epic#0014
+- # Description
+- 💻 I’m currently learning HTML and PHP..
+- 🔧 Like to reverse engineering some programs
+- 🪟 Windows User
+
+# Stats
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=rast6&show_icons=true&theme=radical"
