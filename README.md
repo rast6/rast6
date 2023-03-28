@@ -3,12 +3,11 @@
 - 🔧 Like to reverse engineering some programs
 - 🪟 Windows User
 
-<hr>
-
-<h1>Discord</h1>
+# Discord
 <a href="#">
-  <img align="center" src="https://lanyard.cnrad.dev/api/371225804736299018"/>
+  <img align="center" src="https://lanyard.cnrad.dev/api/668748164467261467"/>
 </a>
+
 # Stats
 <picture>
 <source 
