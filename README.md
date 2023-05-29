@@ -1,5 +1,5 @@
 
-  # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
+  # hi <img align="right" src="https://epiclinks.ct8.pl/img/icon.png" width="50" height="50" />🚀
 
 I am a 13 year old trying to learn __PHP__ and __HTML__ codes.
 
@@ -15,7 +15,7 @@ I am a 13 year old trying to learn __PHP__ and __HTML__ codes.
 
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
+  <img align="right" src="https://epic1.neocities.org/lol3.gif" width="300" height="300" />
 </p>
 
 - 💻 I’m currently learning HTML and PHP..
