@@ -1,25 +1,38 @@
-# Description
+
+  # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
+
+I am a 13 year old trying to learn __PHP__ and __HTML__ codes.
+
+  
+<details>
+  <summary><i> Click <b> Here </b> to view more. </i>
+<p align="center">  
+  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
+</p> </summary>  
+
+
+
+
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
+</p>
+
 - 💻 I’m currently learning HTML and PHP..
 - 🔧 Like to reverse engineering some programs
-- 🪟 Windows User
+- 🪟 Windows 10 User
 
-# Discord
+# Epic's Discord
 <a href="#">
   <img align="center" src="https://lanyard.cnrad.dev/api/668748164467261467"/>
 </a>
 
-# Stats
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=rast6&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=rast6&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=rast6&show_icons=true" />
-</picture>
-<picture>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rast6&hide=html&theme=graywhite&layout=compact&hide_border=true">
-  </picture>
+Hi?
+</details>
+
+<p align="center">
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+</p>
+
+### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+
