@@ -6,10 +6,7 @@ I am a 13 year old trying to learn __PHP__ and __HTML__ codes.
   
 <details>
   <summary><i> Click <b> Here </b> to view more. </i>
-<p align="center">  
-  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
-  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
-</p> </summary>  
+ </summary>  
 
 
 
@@ -31,8 +28,8 @@ Hi?
 </details>
 
 <p align="center">
-<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+<img align="middle" src="https://avatars.githubusercontent.com/u/74357500?s=40&v=4" width="250" height="250" />
 </p>
 
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+### `Epic`- _Epic_
 
